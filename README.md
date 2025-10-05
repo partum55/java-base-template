@@ -1,6 +1,6 @@
 # Project Title
 
-**Author:** [Nazar Mykhailyshchuk][www.github.com/partum55]
+**Author:** [Nazar Mykhailyshchuk](www.github.com/partum55)
 **Group:** [Your Group]  
 **Course:** [Course Name]  
 **Assignment:** [Assignment Number/Name]  
